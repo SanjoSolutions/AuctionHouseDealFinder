@@ -1,4 +1,5 @@
 ## Title: Auction House Deal Finder
+## Interface: 100002
 ## Dependencies: Math, Async, Object, Events
 ## SavedVariables: lastTimeAuctionHouseItemsReplicated, itemInfoCache, itemInfoCache2, itemInfoCacheBuild, itemInfoCache2Build
 ## SavedVariablesPerCharacter: SellerItemsToSell
